@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: May 05, 2018 at 02:48 PM
+-- Generation Time: May 05, 2018 at 03:07 PM
 -- Server version: 5.7.19
 -- PHP Version: 5.6.31
 
@@ -92,17 +92,17 @@ INSERT INTO `products` (`id`, `brand`, `name`, `price`, `img`, `date`) VALUES
 (46, 'Xiaomi', 'Xiaomi Mi 4S', 3990000, 'Xiami4S.png', '2018-05-05 20:58:41'),
 (47, 'Xiaomi', 'Xiaomi Redmi Note 4', 3690000, 'XiaomiNote4.png', '2018-05-05 20:58:41'),
 (48, 'Oppo', 'Oppo F7 128GB', 9990000, 'OppoF7.png', '2018-05-05 21:01:42'),
-(49, 'OPPO', 'OPPO F5 6GB', 8990000, 'OppoF5.png', '2018-05-05 21:01:42'),
-(50, 'OPPO', 'OPPO F5 Youth', 5990000, 'OppoF5Youth.png', '2018-05-05 21:02:24'),
-(51, 'OPPO', 'OPPO F5 Youth', 5990000, 'OppoF5Youth.png', '2018-05-05 21:02:59'),
-(52, 'OPPO', 'OPPO A83', 4990000, 'OppoA83.png', '2018-05-05 21:02:59'),
+(49, 'Oppo', 'OPPO F5 6GB', 8990000, 'OppoF5.png', '2018-05-05 21:01:42'),
+(50, 'Oppo', 'OPPO F5 Youth', 5990000, 'OppoF5Youth.png', '2018-05-05 21:02:24'),
+(51, 'Oppo', 'OPPO F5 Youth', 5990000, 'OppoF5Youth.png', '2018-05-05 21:02:59'),
+(52, 'Oppo', 'OPPO A83', 4990000, 'OppoA83.png', '2018-05-05 21:02:59'),
 (53, 'Oppo', 'Oppo A71 32GB', 4190000, 'OppoA71.png', '2018-05-05 21:03:50'),
 (54, 'Oppo', 'OPPO F1 Plus', 3990000, 'OppoF1Plus.png', '2018-05-05 21:04:54'),
 (55, 'Oppo', 'OPPO F3', 3990000, 'OppoF3.png', '2018-05-05 21:04:54'),
 (56, 'Oppo', 'Oppo A71K', 3590000, 'OppoA71K.png', '2018-05-05 21:06:00'),
 (57, 'Oppo', 'Oppo F3 Lite', 3490000, 'OppoF3Lite.png', '2018-05-05 21:06:00'),
-(58, 'OPPO', 'OPPO A37 (Neo 9)', 3290000, 'OppoA37.png', '2018-05-05 21:07:05'),
-(59, 'OPPO', 'OPPO F3 Plus', 7490000, 'OppoF3Plus.png', '2018-05-05 21:07:05');
+(58, 'Oppo', 'OPPO A37 (Neo 9)', 3290000, 'OppoA37.png', '2018-05-05 21:07:05'),
+(59, 'Oppo', 'OPPO F3 Plus', 7490000, 'OppoF3Plus.png', '2018-05-05 21:07:05');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
