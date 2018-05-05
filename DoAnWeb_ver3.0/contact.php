@@ -21,7 +21,8 @@ else
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="public/vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="public/css/style.css">
-    <title>Homepage</title>
+    <link rel="shortcut icon" href="public/img/favicon.ico" type="image/x-icon">
+    <title>Liên hệ</title>
 </head>
 <body>
     <!-- Header -->
@@ -82,7 +83,7 @@ else
       <th scope="col">Họ Tên</th>
       <th scope="col">Mã SV</th>
       <th scope="col">Email</th>
-      <th scope="col">Email</th>
+      <th scope="col">Công việc</th>
     </tr>
   </thead>
   <tbody>
@@ -96,16 +97,16 @@ else
     <tr>
       <th scope="row">2</th>
       <td>Lê Thanh Thiện</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-      <td>@fat</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>Cao Lê Viết Tiến</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
-      <td>@twitter</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>

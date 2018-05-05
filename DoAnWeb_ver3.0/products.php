@@ -23,7 +23,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="public/vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="public/css/style.css">
-    <title>Homepage</title>
+    <link rel="shortcut icon" href="public/img/favicon.ico" type="image/x-icon">
+    <title>Sản phẩm</title>
 </head>
 <body>
 
