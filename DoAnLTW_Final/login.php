@@ -70,7 +70,6 @@
             </form>
 
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="cart.php">Giỏ hàng</a></li>
                     <?php
                      if (isset($_SESSION['user']))
                      {
@@ -122,66 +121,6 @@
       </form>
         </div>
     </div> <!-- /container -->
-
-    <!-- Footer -->
-    <div class="footer-top">
-    <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <div class="footer-about-us">
-                        <h2><span>Shop</span></h2>
-                        <ul class="list-unstyled">
-                            <li><h4>Phạm Ngọc Huy Duy</h4></li>
-                            <li><h4>Cao Lê Viết Tiến</h4></li>
-                            <li><h4>Lê Thanh Thiện</h4></li>
-                        </ul>
-                        <div class="footer-social">
-                            <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                            <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                            <a href="#" target="_blank"><i class="fa fa-youtube"></i></a>
-                            <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="col-md-3 col-sm-6">
-                    <div class="footer-menu">
-                        <h2 class="footer-wid-title">Danh sách</h2>
-                        <ul>
-                            <li><a href="products.php?brand=Apple">Apple</a></li>
-                            <li><a href="products.php?Samsung">Samsung</a></li>
-                            <li><a href="products.php?Xiaomi">Xiaomi</a></li>
-                            <li><a href="products.php?Oppo">Oppo</a></li>
-                        </ul>                        
-                    </div>
-                </div>
-                
-                <div class="col-md-3 col-sm-6">
-                    <div class="footer-menu">
-                        <h2 class="footer-wid-title">Chức năng</h2>
-                        <ul>
-                            <li><a href="cart.php">Giỏ hàng</a></li>
-                            <li><a href="admin.php">Trang Admin</a></li>
-                            <li><a href="login.php">Login</a></li>
-                        </ul>                        
-                    </div>
-                </div>
-                
-                <div class="col-md-3 col-sm-6">
-                    <div class="footer-newsletter">
-                        <h2 class="footer-wid-title">Newsletter</h2>
-                        <p>Sign up to our newsletter and get exclusive deals you wont find anywhere else straight to your inbox!</p>
-                        <div class="newsletter-form">
-                            <form action="#">
-                                <input type="email" placeholder="Type your email">
-                                <input type="submit" value="Subscribe">
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <script src="public/vendor/jquery/jquery-3.3.1.min.js"></script>
     <script src="public/vendor/bootstrap/js/bootstrap.min.js"></script>
 </body>
