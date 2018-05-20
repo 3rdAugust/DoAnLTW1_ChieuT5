@@ -12,7 +12,7 @@ session_start();
     <link rel="shortcut icon" href="public/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="public/css/style.css">
     <link rel="stylesheet" href="public/css/login.css">
-    <title>Đăng nhập</title>
+    <title>Liên hệ</title>
 </head>
 <body>
     <!-- Header -->

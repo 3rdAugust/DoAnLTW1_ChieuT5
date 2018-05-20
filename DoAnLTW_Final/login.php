@@ -29,7 +29,7 @@
     <link rel="shortcut icon" href="public/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="public/css/style.css">
     <link rel="stylesheet" href="public/css/login.css">
-    <title>Liên hệ</title>
+    <title>Đăng nhập</title>
 </head>
 <body>
     <!-- Header -->
@@ -70,6 +70,7 @@
             </form>
 
                 <ul class="nav navbar-nav navbar-right">
+                    <li><a href="cart.php">Giỏ hàng</a></li>
                     <?php
                      if (isset($_SESSION['user']))
                      {
@@ -121,6 +122,7 @@
       </form>
         </div>
     </div> <!-- /container -->
+
     <script src="public/vendor/jquery/jquery-3.3.1.min.js"></script>
     <script src="public/vendor/bootstrap/js/bootstrap.min.js"></script>
 </body>

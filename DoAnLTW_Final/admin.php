@@ -34,7 +34,7 @@ else
             margin-left: 500px; 
         }
     </style>
-    <title>Trang chủ</title>
+    <title>Trang Admin</title>
 </head>
 <body>
 

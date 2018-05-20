@@ -15,7 +15,7 @@ $data = $product->getProduct($id);
     <link rel="shortcut icon" href="public/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="public/css/style.css">
     <link rel="stylesheet" href="public/css/login.css">
-    <title>Chi Tiết</title>
+    <title>Chi tiết sản phẩm</title>
 </head>
 <body>
     <!-- Header -->

@@ -30,7 +30,7 @@ if ($_SESSION['user'] != 'admin')
         }   
 
     </style>
-    <title>Trang chủ</title>
+    <title>Chỉnh sửa sản phẩm</title>
 </head>
 <body>
 

@@ -42,7 +42,7 @@ else
         }   
 
     </style>
-    <title>Trang chủ</title>
+    <title>Thêm sản phẩm mới</title>
 </head>
 <body>
 

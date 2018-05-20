@@ -15,7 +15,7 @@ $product = new products();
     <link rel="stylesheet" href="public/css/style.css">
     <link rel="stylesheet" href="public/css/login.css">
     <link rel="stylesheet" href="public/font-awesome-4.7.0/css/font-awesome.min.css">
-    <title>Đăng nhập</title>
+    <title>Giỏ hàng</title>
 </head>
 <body>
     <!-- Header -->
