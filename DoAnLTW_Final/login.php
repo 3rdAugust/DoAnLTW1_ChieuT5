@@ -70,7 +70,6 @@
             </form>
 
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="cart.php">Giỏ hàng</a></li>
                     <?php
                      if (isset($_SESSION['user']))
                      {
