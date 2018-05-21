@@ -125,7 +125,7 @@ if ($_SESSION['user'] != 'admin')
                             });                                              
                             $product = new product();
                             $productById = $product->getProductById($id);
-                            var_dump($productById); 
+                            
                          ?> 
 
                         <form action="edit.php" method="post" class="form-horizontal" enctype="multipart/form-data">
